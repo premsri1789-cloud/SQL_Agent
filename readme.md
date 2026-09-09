@@ -217,6 +217,3 @@ Example response shape:
 - The schema is cached in memory, so restart the API after changing the database schema.
 - `session_id` is currently returned by the API but is not used to persist conversational history between requests.
 
-## License
-
-Add the license that applies to your project before publishing it to GitHub.
